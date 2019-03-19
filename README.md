@@ -49,7 +49,7 @@ Granular synthesis based simulation of joint friction | [Youtube](https://youtu.
 UE4 DAW-expander Alpha | [Youtube](https://youtu.be/tdfm-SxgSA8)
 
 
-Wave oscillators are the base noise-generators in a synthesizer. Below is a C# snippet where I generate different wavetypes inside Unitys audio-thread, writing directly to audiobuffer:
+Wave oscillators are the base noise-generators in a synthesizer. Below is a C# snippet where I generate different wavetypes inside Unitys audio-thread, writing directly to audiobuffer at 44100 samples per second:
 ```cs
     //AUDIOTHREAD
     void OnAudioFilterRead(float[] data, int channels)
