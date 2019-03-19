@@ -23,12 +23,19 @@
 Experiments in interactive 3D domain | Video Links
 ------------ | -------------
 Acoustic Spa Experience | [Youtube](https://youtu.be/Sf01NNtXoS8)
+Physical environment audio propagation demo | [Youtube](https://youtu.be/dqOSnjrB9xI)
 Music Visualizer "Candy" | [Youtube](https://youtu.be/5Hb8X3R4TWY)
 Music Visualizer "Rocket" | [Youtube](https://youtu.be/m6ZYMHoDMBQ)
 Soft-Loop exploring | [Youtube](https://youtu.be/Xr4OubfF4RE)
 Rube Goldberg-esque interactive melody machine | [Youtube](https://youtu.be/Ha2dC7se8yA)
 Synthwave synthesizer car | [Youtube](https://youtu.be/sgXgEhou9Kg)
-
+Desktop 3d synthesizer with infinite random presets | [Youtube](https://youtu.be/0lCJlrf3Bj8)
+VR music composer sandbox | [Youtube](https://youtu.be/lIurIrjB7CQ)
+Conway's Game Of Life as a musical 3d printer | [Youtube](https://youtu.be/S72HPXI7Xjo)
+AR interactive music player | [Youtube](https://youtu.be/_nf9XGepmZI)
+Behind the scenes, interactive VR piano | [Youtube](https://youtu.be/aumCMQFEFoQ)
+Granular synthesis based simulation of joint friction | [Youtube](https://youtu.be/zm4DmIe8pVE)
+UE4 DAW-expander Alpha | [Youtube](https://youtu.be/tdfm-SxgSA8)
 
 
 C# example where I generate different wavetypes inside Unitys audio-thread, writing directly to audiobuffer(wave oscillators are the base noise-generators in a synthesizer):
