@@ -41,7 +41,7 @@ Granular synthesis based simulation of joint friction | [Youtube](https://youtu.
 UE4 DAW-expander Alpha | [Youtube](https://youtu.be/tdfm-SxgSA8)
 
 
-C# example where I generate different wavetypes inside Unitys audio-thread, writing directly to audiobuffer(wave oscillators are the base noise-generators in a synthesizer):
+Wave oscillators are the base noise-generators in a synthesizer. Below is a C# snippet where I generate different wavetypes inside Unitys audio-thread, writing directly to audiobuffer:
 ```cs
     //AUDIOTHREAD
     void OnAudioFilterRead(float[] data, int channels)
@@ -88,6 +88,7 @@ C# example where I generate different wavetypes inside Unitys audio-thread, writ
         actualFrequency = frequency;
     }
 ```
+The rest of the code can be found [here.](https://github.com/ArthurBarthur/SubtractiveSynthUnityCsharp)
 
 ### Contact
 
