@@ -9,7 +9,9 @@
 - Everything related to Unreal Engine
 
 ## Dev-Ops
-- Large scale cloud infrastructure monitoring
+- Large-scale cloud infrastructure monitoring
+- Cloud computing
+- Distributed systems
 - LAN/WAN network design & optimization
 - Web back-end (hosting, DNS, https/certificates/encryption, official registrar role, load-balancing, netsec, ++++++)
 - Virtualization
