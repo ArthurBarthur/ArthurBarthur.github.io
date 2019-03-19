@@ -1,12 +1,19 @@
 # Jon Arthur Marrable
 <img src="stuff/photo.jpg" width="35%" alt="Hei!" class="inline"/>
 
+## Contact
+
+- marrable@gmail.com
+- [Twitter](https://twitter.com/realDIGGART)
+- [GitHub](https://github.com/ArthurBarthur)
+- [This page](https://arthurbarthur.github.io/)
+
 ## Technical implementation (interactive 3d)
 - Synthesis/DSP
 - Physical audio propagation
 - Procedural generation (music, VFX, systems)
 - AR/VR/MR/xR
-- Everything related to Unreal Engine
+- Anything related to Unreal Engine
 
 ## Dev-Ops
 - Large-scale cloud infrastructure monitoring
