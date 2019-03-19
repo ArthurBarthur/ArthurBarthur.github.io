@@ -90,7 +90,7 @@ Wave oscillators are the base noise-generators in a synthesizer. Below is a C# s
                 //reset out-of-bounds wave-phase
                 if (phase > 2 * System.Math.PI) phase = 0;
             }
-        //send frequency changes async, from gamethread
+        //handle async frequency changes
         frequency = Mathf.MoveTowards(frequency, newFrequency, ((frequency + newFrequency) * (1 / noteLerpSpeedInSec)) * (float)deltaDSPtime);
         actualFrequency = frequency;
     }
