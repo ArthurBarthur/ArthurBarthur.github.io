@@ -79,7 +79,7 @@ C# example where I generate different wavetypes inside Unitys audio-thread, writ
     }
 ```
 
-### Support or Contact
+### Contact
 
 marrable@gmail.com
 
