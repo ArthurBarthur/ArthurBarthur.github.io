@@ -1,7 +1,7 @@
 # Jon Arthur Marrable
 <img src="stuff/photo.jpg" width="35%" alt="Hei!" class="inline"/>
 
-## Technical implementation
+## Technical implementation (interactive 3d)
 - Synthesis/DSP
 - Physical audio propagation
 - Procedural generation (music, VFX, systems)
