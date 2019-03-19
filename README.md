@@ -29,7 +29,9 @@ Soft-Loop exploring | [Youtube](https://youtu.be/Xr4OubfF4RE)
 Rube Goldberg-esque interactive melody machine | [Youtube](https://youtu.be/Ha2dC7se8yA)
 Synthwave synthesizer car | [Youtube](https://youtu.be/sgXgEhou9Kg)
 
-C# example of generating different wavetypes inside Unitys audio-thread, writing directly to audiobuffer(wave oscillators are the base noise-generators in a synthesizer):
+
+
+C# example where I generate different wavetypes inside Unitys audio-thread, writing directly to audiobuffer(wave oscillators are the base noise-generators in a synthesizer):
 ```cs
     //AUDIOTHREAD
     void OnAudioFilterRead(float[] data, int channels)
