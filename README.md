@@ -5,6 +5,7 @@
 
 - marrable@gmail.com
 - [Twitter](https://twitter.com/realDIGGART)
+- [Youtube](https://www.youtube.com/channel/UCHO-FkOEDPD8G4JRSV_oEqQ)
 - [GitHub](https://github.com/ArthurBarthur)
 - [This page](https://arthurbarthur.github.io/)
 
