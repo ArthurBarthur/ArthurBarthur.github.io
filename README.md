@@ -19,8 +19,8 @@
 - Project coordination/ownership
 - Global operations
 
-
-Experiments in interactive 3D domain | Video Links
+# Experiments in interactive 3D domain
+Description | Video Links
 ------------ | -------------
 Acoustic Spa Experience | [Youtube](https://youtu.be/Sf01NNtXoS8)
 Physical environment audio propagation demo | [Youtube](https://youtu.be/dqOSnjrB9xI)
