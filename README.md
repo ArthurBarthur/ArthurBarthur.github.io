@@ -29,7 +29,7 @@
 - Project coordination/ownership
 - Global operations
 
-# Some of my experiments in the interactive 3D domain
+# Some of my experiments in audio-interactive domains
 
 Description | Video Links
 ------------ | -------------
