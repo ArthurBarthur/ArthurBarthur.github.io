@@ -96,10 +96,9 @@ Wave oscillators are the base noise-generators in a synthesizer. Below is a C# s
         actualFrequency = frequency;
     }
 ```
-Listen and watch it in action: 
-https://youtu.be/FpyzM4JxsrE
+[Watch the code in action](https://youtu.be/FpyzM4JxsrE)
 
-The rest of the code can be found [here.](https://github.com/ArthurBarthur/SubtractiveSynthUnityCsharp)
+[Browse the rest of the code](https://github.com/ArthurBarthur/SubtractiveSynthUnityCsharp)
 
 ### Contact
 
