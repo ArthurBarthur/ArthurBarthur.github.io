@@ -97,8 +97,8 @@ Wave oscillators are the base noise-generators in a synthesizer. Below is a C# s
     }
 ```
 [Watch the code in action](https://youtu.be/FpyzM4JxsrE)
-
-[Browse the rest of the code](https://github.com/ArthurBarthur/SubtractiveSynthUnityCsharp)
+or
+[browse the rest of the code](https://github.com/ArthurBarthur/SubtractiveSynthUnityCsharp)
 
 ### Contact
 
