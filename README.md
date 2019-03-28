@@ -14,6 +14,7 @@
 - [This page](https://arthurbarthur.github.io/)
 
 ## Technical implementation (interactive 3d)
+- Spatial music
 - Synthesis/DSP
 - Physical audio propagation
 - Procedural generation (music, VFX, systems)
