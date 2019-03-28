@@ -18,7 +18,7 @@
 - Physical audio propagation
 - Procedural generation (music, VFX, systems)
 - AR/VR/MR/xR
-- Anything related to Unreal Engine
+- interactive gameplay
 
 ## Dev-Ops
 - Large-scale cloud infrastructure monitoring
@@ -53,7 +53,7 @@ Granular synthesis based simulation of hinge friction | [Youtube](https://youtu.
 UE4 DAW-expander Alpha | [Youtube](https://youtu.be/tdfm-SxgSA8)
 
 
-Wave oscillators are the base noise-generators in a synthesizer. Below is a C# snippet where I generate different wavetypes inside Unitys audio-thread, writing directly to audiobuffer at 44100 samples per second:
+Wave oscillators are the base noise-generators in a synthesizer. Below is a C# snippet where I generate different wavetypes inside Unitys audio-thread, writing directly to the audiobuffer:
 ```cs
     //AUDIOTHREAD
     void OnAudioFilterRead(float[] data, int channels)
