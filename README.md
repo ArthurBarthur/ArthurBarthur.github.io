@@ -45,7 +45,7 @@ VR music composer sandbox | [Youtube](https://youtu.be/lIurIrjB7CQ)
 Conway's Game Of Life as a musical 3d printer | [Youtube](https://youtu.be/S72HPXI7Xjo)
 AR interactive music player | [Youtube](https://youtu.be/_nf9XGepmZI)
 Behind the scenes, interactive VR piano | [Youtube](https://youtu.be/aumCMQFEFoQ)
-Granular synthesis based simulation of joint friction | [Youtube](https://youtu.be/zm4DmIe8pVE)
+Granular synthesis based simulation of hinge friction | [Youtube](https://youtu.be/zm4DmIe8pVE)
 UE4 DAW-expander Alpha | [Youtube](https://youtu.be/tdfm-SxgSA8)
 
 
