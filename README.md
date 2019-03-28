@@ -1,12 +1,16 @@
 # Jon Arthur Marrable
 <img src="stuff/photo.jpg" width="35%" alt="Hei!" class="inline"/>
 
+## Sites
+
+- [itch.io](https://diggart.itch.io/)
+- [Youtube](https://www.youtube.com/channel/UCHO-FkOEDPD8G4JRSV_oEqQ)
+- [Twitter](https://twitter.com/realDIGGART)
+- [GitHub](https://github.com/ArthurBarthur)
+
 ## Contact
 
 - marrable@gmail.com
-- [Twitter](https://twitter.com/realDIGGART)
-- [Youtube](https://www.youtube.com/channel/UCHO-FkOEDPD8G4JRSV_oEqQ)
-- [GitHub](https://github.com/ArthurBarthur)
 - [This page](https://arthurbarthur.github.io/)
 
 ## Technical implementation (interactive 3d)
