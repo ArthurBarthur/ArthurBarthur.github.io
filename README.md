@@ -23,17 +23,18 @@
 
 ## Dev-Ops
 - Large-scale cloud infrastructure monitoring
-- Cloud computing
+- Global operations
+- Project coordination/ownership
 - Distributed systems
 - LAN/WAN network design & optimization
 - Web back-end (hosting, DNS, https/certificates/encryption, official registrar role, load-balancing, netsec, ++++++)
 - Virtualization
+- AD, windows environments, etc
 - Source control
 - Trend analysis
 - Automation (deep-layered SLA reports, anyone?)
+- Cloud computing
 - Disaster-recovery
-- Project coordination/ownership
-- Global operations
 
 # Some of my experiments in interactive domains
 
