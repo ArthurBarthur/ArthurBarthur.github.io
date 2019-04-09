@@ -3,23 +3,23 @@
 
 ## Sites
 
+- [GitHub](https://github.com/ArthurBarthur)
 - [itch.io](https://diggart.itch.io/)
 - [Youtube](https://www.youtube.com/channel/UCHO-FkOEDPD8G4JRSV_oEqQ)
 - [Twitter](https://twitter.com/realDIGGART)
-- [GitHub](https://github.com/ArthurBarthur)
 
 ## Contact
 
 - marrable@gmail.com
 - [This page](https://arthurbarthur.github.io/)
 
-## Technical implementation (interactive 3d)
+## Technical implementation (interactive media)
+- Procedural generation (music, VFX, systems)
 - Spatial music
 - Synthesis/DSP
 - Physical audio propagation
-- Procedural generation (music, VFX, systems)
 - AR/VR/MR/xR
-- interactive gameplay
+- interactive 3d
 
 ## Dev-Ops
 - Large-scale cloud infrastructure monitoring
@@ -28,16 +28,19 @@
 - LAN/WAN network design & optimization
 - Web back-end (hosting, DNS, https/certificates/encryption, official registrar role, load-balancing, netsec, ++++++)
 - Virtualization
+- Source control
 - Trend analysis
 - Automation (deep-layered SLA reports, anyone?)
 - Disaster-recovery
 - Project coordination/ownership
 - Global operations
 
-# Some of my experiments in audio-interactive domains
+# Some of my experiments in interactive domains
 
 Description | Video Links
 ------------ | -------------
+Ambient relaxation train-ride | [Youtube](https://youtu.be/LQeLBoKXtAU)
+Desktop 3d synthesizer with infinite random presets | [Youtube](https://youtu.be/0lCJlrf3Bj8)
 Acoustic Spa Experience | [Youtube](https://youtu.be/Sf01NNtXoS8)
 Physical environment audio propagation demo | [Youtube](https://youtu.be/dqOSnjrB9xI)
 Music Visualizer "Candy" | [Youtube](https://youtu.be/5Hb8X3R4TWY)
@@ -45,7 +48,6 @@ Music Visualizer "Rocket" | [Youtube](https://youtu.be/m6ZYMHoDMBQ)
 Soft-Loop exploring | [Youtube](https://youtu.be/Xr4OubfF4RE)
 Rube Goldberg-esque interactive melody machine | [Youtube](https://youtu.be/Ha2dC7se8yA)
 Synthwave synthesizer car | [Youtube](https://youtu.be/sgXgEhou9Kg)
-Desktop 3d synthesizer with infinite random presets | [Youtube](https://youtu.be/0lCJlrf3Bj8)
 VR music composer sandbox | [Youtube](https://youtu.be/lIurIrjB7CQ)
 Conway's Game Of Life as a musical 3d printer | [Youtube](https://youtu.be/S72HPXI7Xjo)
 AR interactive music player | [Youtube](https://youtu.be/_nf9XGepmZI)
