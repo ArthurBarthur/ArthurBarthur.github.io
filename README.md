@@ -22,7 +22,8 @@
 - interactive 3d
 
 ## Dev-Ops
-- Large-scale cloud infrastructure monitoring
+- Large-scale infrastructure monitoring
+- Configuration Management
 - Global operations
 - Project coordination/ownership
 - Distributed systems
