@@ -1,5 +1,5 @@
 # Jon Arthur Marrable
-<img src="stuff/coolBoy.jpg" width="50%" alt="Hei!" class="inline"/>
+<img src="stuff/coolBoy.jpg" width="75%" alt="Hei!" class="inline"/>
 
 ## Sites
 
