@@ -37,7 +37,7 @@
 - Cloud computing
 - Disaster-recovery
 
-# Some of my experiments in interactive domains
+# Samples of real-time interactive experiments
 
 Description | Video Links
 ------------ | -------------
