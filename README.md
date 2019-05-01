@@ -9,7 +9,6 @@
 ### Contact
 - marrable@gmail.com
 - [This page](https://arthurbarthur.github.io/)
-____________________________________________________
 
 
 # Some things I do:
@@ -57,7 +56,7 @@ AR interactive music player | [Youtube](https://youtu.be/_nf9XGepmZI)
 Behind the scenes, interactive VR piano | [Youtube](https://youtu.be/aumCMQFEFoQ)
 Granular synthesis based simulation of hinge friction | [Youtube](https://youtu.be/zm4DmIe8pVE)
 UE4 DAW-expander Alpha | [Youtube](https://youtu.be/tdfm-SxgSA8)
-_____________________________
+
 
 # Code Example:
 
@@ -113,7 +112,7 @@ Wave oscillators are the base noise-generators in a synthesizer. Below is a C# s
 ### or
 
 ### [browse the rest of the code](https://github.com/ArthurBarthur/SubtractiveSynthUnityCsharp)
-_____________________________
+
 
 # Contact
 
