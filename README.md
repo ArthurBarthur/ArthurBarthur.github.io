@@ -1,19 +1,20 @@
 # Jon Arthur Marrable
 <img src="stuff/coolBoy.jpg" width="100%" alt="Hei!" class="inline"/>
 
-## Sites
-
+### Sites
 - [GitHub](https://github.com/ArthurBarthur)
 - [itch.io](https://diggart.itch.io/)
 - [Youtube](https://www.youtube.com/channel/UCHO-FkOEDPD8G4JRSV_oEqQ)
 - [Twitter](https://twitter.com/realDIGGART)
-
-## Contact
-
+### Contact
 - marrable@gmail.com
 - [This page](https://arthurbarthur.github.io/)
+____________________________________________________
 
-## Technical implementation (interactive media)
+
+# Some things I do:
+
+### Technical implementation (interactive media)
 - Procedural generation (music, VFX, systems)
 - Spatial music
 - Synthesis/DSP
@@ -21,7 +22,7 @@
 - AR/VR/MR/xR
 - interactive 3d
 
-## Dev-Ops
+### Dev-Ops
 - Large-scale infrastructure monitoring
 - Configuration Management
 - Global operations
@@ -37,11 +38,11 @@
 - Cloud computing
 - Disaster-recovery
 
-# Samples of real-time interactive experiments
+# Samples of real-time interactive experiments:
 
 Description | Video Links
 ------------ | -------------
-Scandinavian Future Noir train-ride | [Youtube](https://youtu.be/N--CSfkHM90)
+Future train-ride meditation | [Youtube](https://youtu.be/Ci3uHK8QHRk)
 Desktop 3d synthesizer with infinite random presets | [Youtube](https://youtu.be/0lCJlrf3Bj8)
 Acoustic Spa Experience | [Youtube](https://youtu.be/Sf01NNtXoS8)
 Physical environment audio propagation demo | [Youtube](https://youtu.be/dqOSnjrB9xI)
@@ -56,7 +57,9 @@ AR interactive music player | [Youtube](https://youtu.be/_nf9XGepmZI)
 Behind the scenes, interactive VR piano | [Youtube](https://youtu.be/aumCMQFEFoQ)
 Granular synthesis based simulation of hinge friction | [Youtube](https://youtu.be/zm4DmIe8pVE)
 UE4 DAW-expander Alpha | [Youtube](https://youtu.be/tdfm-SxgSA8)
+_____________________________
 
+# Code Example:
 
 Wave oscillators are the base noise-generators in a synthesizer. Below is a C# snippet where I generate different wavetypes inside Unitys audio-thread, writing directly to the audiobuffer:
 ```cs
@@ -105,11 +108,14 @@ Wave oscillators are the base noise-generators in a synthesizer. Below is a C# s
         actualFrequency = frequency;
     }
 ```
-[Watch the code in action](https://youtu.be/FpyzM4JxsrE)
-or
-[browse the rest of the code](https://github.com/ArthurBarthur/SubtractiveSynthUnityCsharp)
+### [Listen to the code in action](https://youtu.be/FpyzM4JxsrE)
 
-### Contact
+### or
+
+### [browse the rest of the code](https://github.com/ArthurBarthur/SubtractiveSynthUnityCsharp)
+_____________________________
+
+# Contact
 
 marrable@gmail.com
 
