@@ -1,5 +1,6 @@
-# Jon Arthur Marrable
 <img src="stuff/coolBoy.jpg" width="100%" alt="Hei!" class="inline"/>
+
+# Jon Arthur Marrable
 
 ### Sites
 - [GitHub](https://github.com/ArthurBarthur)
