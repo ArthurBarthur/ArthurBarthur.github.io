@@ -1,4 +1,4 @@
-<img src="stuff/coolBoy.jpg" width="100%" alt="Hei!" class="inline"/>
+<img src="stuff/ArthurLately.jpg" width="100%" alt="Hei!" class="inline"/>
 
 # Jon Arthur Marrable
 
