@@ -1,4 +1,4 @@
-<img src="stuff/ArthurLately.jpg" width="100%" alt="Hei på deg!" class="inline"/>
+<img src="stuff/ArthNew.jpg" width="100%" alt="Hei på deg!" class="inline"/>
 
 # Jon Arthur Marrable
 
