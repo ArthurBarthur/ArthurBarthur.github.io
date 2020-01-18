@@ -43,7 +43,7 @@
 
 Description | Video Links
 ------------ | -------------
-Arthur's Audio Blueprints | [Youtube](https://youtu.be/WhmYe1YWUJA)
+Arthur's Audio Blueprints | [Youtube](https://www.youtube.com/playlist?list=PL_qZCECKvpx2kmmdfVcW6k6I72B30zN2N)
 Future train-ride meditation | [Youtube](https://youtu.be/Ci3uHK8QHRk)
 Desktop 3d synthesizer with infinite random presets | [Youtube](https://youtu.be/0lCJlrf3Bj8)
 Acoustic Spa Experience | [Youtube](https://youtu.be/Sf01NNtXoS8)
