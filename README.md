@@ -20,8 +20,8 @@
 - Spatial music
 - Synthesis/DSP
 - Physical audio propagation
-- AR/VR/MR/xR
-- interactive 3d
+- AR/VR/MR/xR/etc
+- interactive 3d everything
 
 ### Dev-Ops
 - Large-scale infrastructure monitoring
@@ -30,7 +30,7 @@
 - Project coordination/ownership
 - Distributed systems
 - LAN/WAN network design & optimization
-- Web back-end (hosting, DNS, https/certificates/encryption, official registrar role, load-balancing, netsec, ++++++)
+- Web back-end (hosting, DNS, https/certs/encryption, registrar functions, load-balancing, netsec, ++++++)
 - Virtualization
 - AD, windows environments, etc
 - Source control
@@ -44,6 +44,7 @@
 Description | Video Links
 ------------ | -------------
 Arthur's Audio Blueprints | [Youtube](https://www.youtube.com/playlist?list=PL_qZCECKvpx2kmmdfVcW6k6I72B30zN2N)
+SpringKeys Virtual Instrument | [Youtube](https://youtu.be/y4WkcFE-mi8)
 Future train-ride meditation | [Youtube](https://youtu.be/Ci3uHK8QHRk)
 Desktop 3d synthesizer with infinite random presets | [Youtube](https://youtu.be/0lCJlrf3Bj8)
 Acoustic Spa Experience | [Youtube](https://youtu.be/Sf01NNtXoS8)
