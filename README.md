@@ -4,17 +4,23 @@
 {% include youtubePlayer.html %}
 
 # Jon Arthur Marrable
+
 ___
+
 ### Sites
 - [GitHub](https://github.com/ArthurBarthur)
 - [itch.io](https://diggart.itch.io/)
 - [Youtube](https://www.youtube.com/channel/UCHO-FkOEDPD8G4JRSV_oEqQ)
 - [Twitter](https://twitter.com/realDIGGART)
+
 ___
+
 ### Contact
 - marrable@gmail.com
 - [This page](https://arthurbarthur.github.io/)
+
 ___
+
 
 # Some things I do:
 
@@ -25,7 +31,10 @@ ___
 - Physical audio propagation
 - AR/VR/MR/xR/etc
 - interactive 3d everything
+
 ___
+
+
 ### Dev-Ops
 - Large-scale infrastructure monitoring
 - Configuration Management
@@ -41,7 +50,9 @@ ___
 - Automation (deep-layered SLA reports, anyone?)
 - Cloud computing
 - Disaster-recovery
+
 ___
+
 # Samples of real-time interactive experiments:
 
 Description | Video Links
@@ -65,6 +76,7 @@ Granular synthesis based simulation of hinge friction | [Youtube](https://youtu.
 UE4 DAW-expander Alpha | [Youtube](https://youtu.be/tdfm-SxgSA8)
 
 ___
+
 # Code Example:
 
 Wave oscillators are the base noise-generators in a synthesizer. Below is a C# snippet where I generate different wavetypes inside Unitys audio-thread, writing directly to the audiobuffer:
@@ -121,6 +133,7 @@ Wave oscillators are the base noise-generators in a synthesizer. Below is a C# s
 ### [browse the rest of the code](https://github.com/ArthurBarthur/SubtractiveSynthUnityCsharp)
 
 ___
+
 # Contact
 
 marrable@gmail.com
