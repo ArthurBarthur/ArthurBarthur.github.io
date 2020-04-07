@@ -1,17 +1,19 @@
+<span style="display:block">
+
 <img src="stuff/ArthNew.jpg" width="100%" alt="Hei på deg!" class="inline"/>
 
 # Jon Arthur Marrable
-
+___
 ### Sites
 - [GitHub](https://github.com/ArthurBarthur)
 - [itch.io](https://diggart.itch.io/)
 - [Youtube](https://www.youtube.com/channel/UCHO-FkOEDPD8G4JRSV_oEqQ)
 - [Twitter](https://twitter.com/realDIGGART)
-
+___
 ### Contact
 - marrable@gmail.com
 - [This page](https://arthurbarthur.github.io/)
-
+___
 
 # Some things I do:
 
@@ -23,6 +25,10 @@
 - AR/VR/MR/xR/etc
 - interactive 3d everything
 
+Reel:
+
+{% include youtubePlayer.html %}
+___
 ### Dev-Ops
 - Large-scale infrastructure monitoring
 - Configuration Management
@@ -38,7 +44,7 @@
 - Automation (deep-layered SLA reports, anyone?)
 - Cloud computing
 - Disaster-recovery
-
+___
 # Samples of real-time interactive experiments:
 
 Description | Video Links
@@ -61,7 +67,7 @@ Behind the scenes, interactive VR piano | [Youtube](https://youtu.be/aumCMQFEFoQ
 Granular synthesis based simulation of hinge friction | [Youtube](https://youtu.be/zm4DmIe8pVE)
 UE4 DAW-expander Alpha | [Youtube](https://youtu.be/tdfm-SxgSA8)
 
-
+___
 # Code Example:
 
 Wave oscillators are the base noise-generators in a synthesizer. Below is a C# snippet where I generate different wavetypes inside Unitys audio-thread, writing directly to the audiobuffer:
@@ -117,8 +123,9 @@ Wave oscillators are the base noise-generators in a synthesizer. Below is a C# s
 
 ### [browse the rest of the code](https://github.com/ArthurBarthur/SubtractiveSynthUnityCsharp)
 
-
+___
 # Contact
 
 marrable@gmail.com
 
+</span>
