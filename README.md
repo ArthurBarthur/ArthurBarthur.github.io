@@ -1,5 +1,4 @@
-<span style="display:block">
-
+<span style="text-align:justify">
 <img src="stuff/ArthNew.jpg" width="100%" alt="Hei på deg!" class="inline"/>
 
 # Jon Arthur Marrable
@@ -26,8 +25,8 @@ ___
 - interactive 3d everything
 
 Reel:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hu8XzI_sjgQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-{% include youtubePlayer.html %}
 ___
 ### Dev-Ops
 - Large-scale infrastructure monitoring
