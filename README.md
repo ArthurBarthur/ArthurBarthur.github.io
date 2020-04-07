@@ -1,5 +1,5 @@
 <span style="text-align:justify">
-<img src="stuff/ArthNew.jpg" width="75%" alt="Hei på deg!" class="inline"/>
+<img src="stuff/ArthNew.jpg" width="100%" alt="Hei på deg!" class="inline"/>
 
 {% include youtubePlayer.html %}
 
