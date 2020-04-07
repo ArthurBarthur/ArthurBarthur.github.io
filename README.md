@@ -1,5 +1,7 @@
 <span style="text-align:justify">
-<img src="stuff/ArthNew.jpg" width="100%" alt="Hei på deg!" class="inline"/>
+<img src="stuff/ArthNew.jpg" width="75%" alt="Hei på deg!" class="inline"/>
+
+{% include youtubePlayer.html %}
 
 # Jon Arthur Marrable
 ___
@@ -23,11 +25,6 @@ ___
 - Physical audio propagation
 - AR/VR/MR/xR/etc
 - interactive 3d everything
-
-Reel:
-
-{% include youtubePlayer.html %}
-
 ___
 ### Dev-Ops
 - Large-scale infrastructure monitoring
