@@ -1,5 +1,5 @@
 
-{% include youtubePlayer.html %}
+{% include youtubePlayer.html id=page.hu8XzI_sjgQ %}
 
 
 <img src="stuff/ArthNew.jpg" width="100%" alt="Hei på deg!" class="inline"/>
