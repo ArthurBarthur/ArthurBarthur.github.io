@@ -26,7 +26,7 @@ ___
 
 Reel:
 
-{% include youtubePlayer.html id=page.hu8XzI_sjgQ %}
+{% include youtubePlayer.html %}
 
 ___
 ### Dev-Ops
