@@ -8,10 +8,15 @@
 ___
 
 ### Sites
-- [GitHub](https://github.com/ArthurBarthur)
+- [Instagram](https://www.instagram.com/arthur_barthur/)
+- [Twitter](https://twitter.com/realDIGGART)
 - [itch.io](https://diggart.itch.io/)
 - [Youtube](https://www.youtube.com/channel/UCHO-FkOEDPD8G4JRSV_oEqQ)
-- [Twitter](https://twitter.com/realDIGGART)
+- [GitHub](https://github.com/ArthurBarthur)
+
+
+
+
 
 ___
 
