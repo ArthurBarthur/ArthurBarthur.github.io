@@ -2,7 +2,7 @@
 {% include youtubePlayer.html id="hu8XzI_sjgQ" %}
 
 
-<img src="stuff/ArthNew.jpg" width="100%" alt="Hei på deg!" class="inline"/>
+<img src="stuff/gitpic.jpg" width="100%" alt="Hei på deg!" class="inline"/>
 
 # Jon Arthur Marrable
 ___
