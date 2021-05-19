@@ -23,7 +23,7 @@ ___
 ___
 
 ### Most recent publication
-- CDM :: Create Digital Music And Motion :: https://cdm.link/2021/03/watch-unreal-engine-make-low-latency-visualizations-thanks-to-arthur-barthur/
+- [CDM - Create Digital Music And Motion](https://cdm.link/2021/03/watch-unreal-engine-make-low-latency-visualizations-thanks-to-arthur-barthur/)
 
 ___
 
